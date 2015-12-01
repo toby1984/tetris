@@ -8,7 +8,7 @@ import java.awt.Color
 class TileFactory(random:Random) 
 {
   def this() {
-    this( new Random(0xdeadbeef) )
+    this( new Random() )
   }
   
   private[this] var nextTile : Tile = null
