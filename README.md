@@ -1,7 +1,7 @@
 # tetris
 A crude tetris clone written in Scala
 
-![Screenshot](http://example.com/images/logo.png)
+![Screenshot](https://github.com/toby1984/tetris/blob/master/screenshot.png?raw=true)
 
 *Requirements*
 
