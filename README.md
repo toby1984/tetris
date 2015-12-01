@@ -1,6 +1,8 @@
 # tetris
 A crude tetris clone written in Scala
 
+![Screenshot](http://example.com/images/logo.png)
+
 *Requirements*
 
 JDK8
